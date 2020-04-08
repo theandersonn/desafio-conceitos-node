@@ -14,12 +14,7 @@ Desenvolver uma aplicação para armazenar repositórios do portfólio, permitid
 - Insomnia
 - Yarn
 
-**Tempo de execução**
-- Aulas teóricas: 03:30Hs
-- Desafio prático: 05Hs
-
 **Comandos**
-
 ```sh
 # Para baixar as dependências 
 yarn install
